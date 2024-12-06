@@ -9,6 +9,7 @@ namespace LabWork
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
+            //Введення тексту
             Console.WriteLine("Введіть текст:");
             string inputText = Console.ReadLine();
 
